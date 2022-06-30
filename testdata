@@ -1,0 +1,4 @@
+We train the CNN using some default images of people with and without masks and this would thereby make the system able to recognize whether a person has worn a mask or not.
+The test data are available in the link given below
+https://data-flair.training/blogs/download-face-mask-data/
+
